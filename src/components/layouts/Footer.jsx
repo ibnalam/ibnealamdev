@@ -4,7 +4,7 @@ import Flex from '../common/Flex'
 import List from '../common/List'
 import Image from '../common/Image'
 
-import Man from "../../assets/git.png"
+import Man from "../../assets/git.jpg"
 import { AiOutlineTwitter,AiOutlineInstagram} from "react-icons/ai"
 import { FaFacebookF} from "react-icons/fa"
 import { BiLogoLinkedin} from "react-icons/bi"
@@ -21,7 +21,7 @@ function Footer() {
                     <div className='w-[100px] mx-auto'>
                        <Image src={Man} className="rounded-full"/>
                     </div>
-                       <p className='font-dm font-normal text-white text-sm text-center pt-4'>Email: thehasandev@gmail.com</p>
+                       <p className='font-dm font-normal text-white text-sm text-center pt-4'>Email: ibnalam6@gmail.com</p>
                      
                       <div className='flex gap-x-2 justify-center mt-4'>
                         <div className='w-8 h-8 cursor-pointer bg-secondary rounded-[2px] text-white flex items-center justify-center'>

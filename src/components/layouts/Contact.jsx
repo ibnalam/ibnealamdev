@@ -100,15 +100,15 @@ function Contact() {
                     <div className='md:w-96 w-[360px] mx-auto    py-10'>
                       <Flex className="items-center gap-x-5">
                         <AiTwotonePhone size={30} className={`${darkData ? "text-white" : "text-secondary"}`}/>
-                        <p className={`font-dm font-medium text-base  ${darkData ? "text-white":"text-secondary"}`}>01764262634</p>
+                        <p className={`font-dm font-medium text-base  ${darkData ? "text-white":"text-secondary"}`}>01766636393</p>
                       </Flex>
                       <Flex className="items-center gap-x-5 my-4">
                         <AiOutlineMail size={30} className={`${darkData ? "text-white" : "text-secondary"}`}/>
-                        <p  className={`font-dm font-medium text-base  ${darkData ? "text-white":"text-secondary"}`}>thehasandev@gmail.com</p>
+                        <p  className={`font-dm font-medium text-base  ${darkData ? "text-white":"text-secondary"}`}>ibnalam6@gmail.com</p>
                       </Flex>
                       <Flex className="items-center gap-x-5">
                         <CiLocationOn size={30} className={`${darkData ? "text-white" : "text-secondary"}`}/>
-                        <p  className={`font-dm font-medium text-base  ${darkData ? "text-white":"text-secondary"}`}>Dhaka,Narsingdi</p>
+                        <p  className={`font-dm font-medium text-base  ${darkData ? "text-white":"text-secondary"}`}>Dhaka,tejgaon,1208</p>
                       </Flex>
                        
                     </div>

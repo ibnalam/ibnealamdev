@@ -50,10 +50,10 @@ function Project() {
                      <div className='w-full h-full bg-black/70 absolute    group-hover:top-0 top-[100%] left-0 flex items-center justify-center gap-x-5'> </div>
                      <div className='w-full h-full  absolute duration-500   group-hover:top-0 top-[100%] left-0 flex items-center justify-center gap-x-5'>
                         <p className='font-dm font-medium text-white text-lg '>
-                            <Link to="https://github.com/thehasandev/ecommerce-orebi.git">View Code</Link>
+                            <Link to="https://github.com/ibnalam/orebi_ecomece">View Code</Link>
                         </p>
                         <p className='font-dm font-medium text-white text-lg '>
-                            <Link to="https://ecommerce-orebi.netlify.app/">Live Project</Link>
+                            <Link to="https://orebi220.vercel.app/">Live Project</Link>
                         </p>
                      </div>
                    </div>
@@ -87,14 +87,14 @@ function Project() {
 
 
                         <Flex className="justify-center items-center gap-x-4 pt-8 ">
-                                <Link to="https://github.com/thehasandev/ecommerce-orebi.git">
+                                <Link to="https://github.com/ibnalam/orebi_ecomece">
                                     <Flex className='items-center gap-x-2'>
                                         <p className={`font-dm font-medium font-base  ${darkData ? "text-white":"text-secondary"}`}>Code</p>
                                         <AiFillGithub size={30}/>
                                     </Flex>
                                 </Link>
 
-                                <Link to="https://ecommerce-orebi.netlify.app/">
+                                <Link to="https://orebi220.vercel.app/">
                                     <Flex className='items-center gap-x-2'>
                                         <p className={`font-dm font-medium font-base  ${darkData ? "text-white":"text-secondary"}`}>Live Demo</p>
                                         <FiExternalLink size={25}/>
@@ -119,10 +119,10 @@ function Project() {
                      <div className='w-full h-full bg-black/70 absolute    group-hover:top-0 top-[100%] left-0 flex items-center justify-center gap-x-5'> </div>
                      <div className='w-full h-full  absolute duration-500   group-hover:top-0 top-[100%] left-0 flex items-center justify-center gap-x-5'>
                         <p className='font-dm font-medium text-white text-lg '>
-                           <Link to="https://github.com/thehasandev/daraz.git">View Code</Link>
+                           <Link to="https://github.com/ibnalam/daraz">View Code</Link>
                         </p>
                         <p className='font-dm font-medium text-white text-lg '>
-                        <Link to="https://daraz-ecommarce.netlify.app">Live Project</Link>
+                        <Link to=" https://daraz-gamma.vercel.app/">Live Project</Link>
                         </p>
                      </div>
                    </div>
@@ -156,14 +156,14 @@ function Project() {
 
 
                         <Flex className="justify-center items-center gap-x-4 pt-8 ">
-                                <Link to="https://github.com/thehasandev/daraz.git">
+                                <Link to="https://github.com/ibnalam/daraz">
                                     <Flex className='items-center gap-x-2'>
                                         <p className={`font-dm font-medium font-base  ${darkData ? "text-white":"text-secondary"}`}>Code</p>
                                         <AiFillGithub size={30}/>
                                     </Flex>
                                 </Link>
 
-                                <Link to="https://daraz-ecommarce.netlify.app">
+                                <Link to=" https://daraz-gamma.vercel.app/">
                                     <Flex className='items-center gap-x-2'>
                                         <p className={`font-dm font-medium font-base  ${darkData ? "text-white":"text-secondary"}`}>Live Demo</p>
                                         <FiExternalLink size={25}/>
@@ -187,10 +187,10 @@ function Project() {
                      <div className='w-full h-full bg-black/70 absolute    group-hover:top-0 top-[100%] left-0 flex items-center justify-center gap-x-5'> </div>
                      <div className='w-full h-full  absolute duration-500   group-hover:top-0 top-[100%] left-0 flex items-center justify-center gap-x-5'>
                         <p className='font-dm font-medium text-white text-lg '>
-                           <Link to="https://github.com/thehasandev/e_commerce_tronix.git">View Code</Link>
+                           <Link to="https://github.com/ibnalam/tronix">View Code</Link>
                         </p>
                         <p className='font-dm font-medium text-white text-lg '>
-                        <Link to="https://tronix-ecommarce.netlify.app">Live Project</Link>
+                        <Link to="https://tronix-six.vercel.app/">Live Project</Link>
                         </p>
                      </div>
                    </div>
@@ -224,14 +224,14 @@ function Project() {
 
 
                         <Flex className="justify-center items-center gap-x-4 pt-8 ">
-                                <Link to="https://github.com/thehasandev/e_commerce_tronix.git">
+                                <Link to="https://github.com/ibnalam/tronix">
                                     <Flex className='items-center gap-x-2'>
                                         <p className={`font-dm font-medium font-base  ${darkData ? "text-white":"text-secondary"}`}>Code</p>
                                         <AiFillGithub size={30}/>
                                     </Flex>
                                 </Link>
 
-                                <Link to="https://tronix-ecommarce.netlify.app">
+                                <Link to="https://tronix-six.vercel.app/">
                                     <Flex className='items-center gap-x-2'>
                                         <p className={`font-dm font-medium font-base  ${darkData ? "text-white":"text-secondary"}`}>Live Demo</p>
                                         <FiExternalLink size={25}/>
@@ -257,10 +257,10 @@ function Project() {
                      <div className='w-full h-full bg-black/70 absolute    group-hover:top-0 top-[100%] left-0 flex items-center justify-center gap-x-5'> </div>
                      <div className='w-full h-full  absolute duration-500   group-hover:top-0 top-[100%] left-0 flex items-center justify-center gap-x-5'>
                         <p className='font-dm font-medium text-white text-lg '>
-                        <Link to="https://github.com/thehasandev/bangle-fourse.git">View Code</Link>
+                        <Link to="https://github.com/ibnalam/news">View Code</Link>
                         </p>
                         <p className='font-dm font-medium text-white text-lg '>
-                          <Link to="https://bangel-force.netlify.app">Live Project</Link>
+                          <Link to="https://news-sigma-lovat.vercel.app/">Live Project</Link>
                         </p>
                      </div>
                    </div>
@@ -294,14 +294,14 @@ function Project() {
 
 
                         <Flex className="justify-center items-center gap-x-4 pt-8 ">
-                              <Link to="https://github.com/thehasandev/bangle-fourse.git">
+                              <Link to="https://github.com/ibnalam/news">
                                     <Flex className='items-center gap-x-2'>
                                         <p className={`font-dm font-medium font-base  ${darkData ? "text-white":"text-secondary"}`}>Code</p>
                                         <AiFillGithub size={30}/>
                                     </Flex>
                                 </Link>
 
-                                <Link to="https://bangel-force.netlify.app">
+                                <Link to="https://news-sigma-lovat.vercel.app/">
                                     <Flex className='items-center gap-x-2'>
                                         <p className={`font-dm font-medium font-base  ${darkData ? "text-white":"text-secondary"}`}>Live Demo</p>
                                         <FiExternalLink size={25}/>
