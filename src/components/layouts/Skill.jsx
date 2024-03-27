@@ -6,7 +6,7 @@ import Image from "../common/Image"
 import Button from '../common/Button'
 import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
-import Cv  from "../../assets/Hasan_resume.pdf"
+import Cv  from "../../assets/Ibne-Alam.pdf"
 
 
 function Skill() {
