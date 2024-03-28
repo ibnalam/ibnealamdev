@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 
 import Container from '../common/Container'
 import Flex from '../common/Flex'
-import Logo from "../../assets/Document from Hasan (1).jpg"
+// import Logo from "../../assets/Document from Hasan (1).jpg"
 
 import Image from '../common/Image'
 import {CgMenuRight} from "react-icons/cg"
@@ -62,7 +62,7 @@ function Navber() {
             <Flex className="justify-between items-center py-2">
                 <div className='w-[10%]'>
                   <div className='w-12 '>
-                   <Image src={Logo} alt="Logo" className="rounded-[12px]"/>
+                   {/* <Image src={Logo} alt="Logo" className="rounded-[12px]"/> */}
                   </div>
                 </div>
 

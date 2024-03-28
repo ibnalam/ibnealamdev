@@ -119,7 +119,7 @@ function Footer() {
                 <div className='md:w-2/12 '>
                   <h3 className='font-dm font-bold text-lg text-white mb-5 uppercase'>ABOUT ME</h3>
                   <ul>
-                    <p className='text-white w-[100px] md:w-[auto] font-normal md:text-sm text-xs'>Software Engineer by work. Grad Student. Class of '23. Gitkraken Ambassador Nepal, 2021/22.</p>
+                    <p className='text-white w-[100px] md:w-[auto] font-normal md:text-sm text-xs'>MERN Stack by work. Creative It Institute, 1 year diploma </p>
                     
                   </ul>
                 </div>
@@ -128,7 +128,7 @@ function Footer() {
               
                 
             </Flex>
-            <p className='font-dm text-white text-xs md:text-sm font-normal text-right pt-5'>Copyright © Hasan 2023- Modified by @thehasandev
+            <p className='font-dm text-white text-xs md:text-sm font-normal text-right pt-5'>Copyright © Ibn alam 2024- Modified by @ibnalam
 </p>
         </Container>
 

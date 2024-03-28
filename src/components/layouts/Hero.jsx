@@ -49,7 +49,7 @@ function Hero() {
                         <Link to='https://www.linkedin.com/in/ibn-alam-8b960821a/'>
                             <div className={`duration-300 w-[110px] px-2 rounded-[2px] py-2 flex items-center justify-center gap-x-2 ${darkData ? "bg-white hover:bg-white" : "bg-secondary hover:bg-primary"}`}>
                             
-                                <BiLogoLinkedinSquare  size={25} className={`${darkData ? " text-secondary":"text-white"}`}/><p className={`font-dm font-medium text-lg inline-block  text-center ${darkData ? "text-secondary" :"text-white"}`}> Linkin </p>
+                                <BiLogoLinkedinSquare  size={25} className={`${darkData ? " text-secondary":"text-white"}`}/><p className={`font-dm font-medium text-lg inline-block  text-center ${darkData ? "text-secondary" :"text-white"}`}> Linkedin </p>
                             
                             </div>
                         </Link>
