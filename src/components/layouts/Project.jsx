@@ -3,10 +3,13 @@ import Container from '../common/Container'
 import Flex from '../common/Flex'
 import Image from '../common/Image'
 
+
+// image here 
 import ProjectOne from "../../assets/orebiBanner.png"
 import ProjectTwo from "../../assets/daraz.png"
-import ProjectThree from "../../assets/security.png"
+import ProjectThree from "../../assets/barta24.png"
 import ProjectTronix from "../../assets/tronix.png"
+
 
 import { FiExternalLink } from 'react-icons/fi'
 import { AiFillGithub } from 'react-icons/ai'
@@ -38,6 +41,10 @@ function Project() {
          <h2 className={`font-dm font-bold  text-center text-[30px] mb-5 ${darkData ? "text-white":"text-secondary"}`}>My Current Project </h2> 
         
         <Slider {...settings}>
+
+
+
+            {/* orebi project here  */}
         
              <div className='md:w-full    px-8 pt-8 md:pb-[140px] rounded-[5px]'>
                 <Flex className="justify-between gap-y-5 flex-col md:flex-row">
@@ -108,6 +115,11 @@ function Project() {
              </div>
 
 
+
+
+             {/* daraz project here  */}
+
+
              <div className='md:w-full    px-8 pt-8 md:pb-[140px] rounded-[5px]'>
                 <Flex className="justify-between gap-y-5 flex-col md:flex-row">
                    <div className='md:w-[40%] relative overflow-hidden group'>
@@ -122,7 +134,7 @@ function Project() {
                            <Link to="https://github.com/ibnalam/daraz">View Code</Link>
                         </p>
                         <p className='font-dm font-medium text-white text-lg '>
-                        <Link to=" https://daraz-gamma.vercel.app/">Live Project</Link>
+                        <Link to="https://daraz-gamma.vercel.app/">Live Project</Link>
                         </p>
                      </div>
                    </div>
@@ -147,7 +159,7 @@ function Project() {
                              <p className='font-dm  font-semibold text-lg text-secondary '>Javascript</p>
                          </div>
                           <div className={`px-4 py-2 bg-white  rounded-[5px] ${darkData ? "shadow-0 " : "shadow-xl shadow-gray-400/30"}`}>
-                             <p className='font-dm  font-semibold text-lg text-secondary '>Redux</p>
+                             <p className='font-dm  font-semibold text-lg text-secondary'>Redux</p>
                          </div>
                           <div className={`px-4 py-2 bg-white  rounded-[5px] ${darkData ? "shadow-0 " : "shadow-xl shadow-gray-400/30"}`}>
                              <p className='font-dm font-semibold text-lg text-secondary '>Context Api</p>
@@ -163,7 +175,7 @@ function Project() {
                                     </Flex>
                                 </Link>
 
-                                <Link to=" https://daraz-gamma.vercel.app/">
+                                <Link to="https://daraz-gamma.vercel.app/">
                                     <Flex className='items-center gap-x-2'>
                                         <p className={`font-dm font-medium font-base  ${darkData ? "text-white":"text-secondary"}`}>Live Demo</p>
                                         <FiExternalLink size={25}/>
@@ -175,6 +187,12 @@ function Project() {
                    </div>
                 </Flex>
              </div>
+
+
+
+
+            {/* tronix project here  */}
+
 
              <div className='md:w-full    px-8 pt-8 md:pb-[140px] rounded-[5px]'>
                 <Flex className="justify-between gap-y-5 flex-col md:flex-row">
@@ -244,6 +262,8 @@ function Project() {
                 </Flex>
              </div>
 
+
+            {/* barta 24 here  */}
         
 
              <div className='md:w-full    px-8 pt-8 md:pb-[140px] rounded-[5px]'>
@@ -266,7 +286,7 @@ function Project() {
                    </div>
 
                    <div className='md:w-[55%] md:text-left text-center'>
-                   <h2 className={`font-dm font-bold mb-2 md:mb-0  text-[20px] ${darkData ? "text-white":"text-secondary"}`}>Security Gurd Website</h2> 
+                   <h2 className={`font-dm font-bold mb-2 md:mb-0  text-[20px] ${darkData ? "text-white":"text-secondary"}`}>Barta 24  Website</h2> 
                     <p className={`font-dm font-normal md:font-normal text-sm md:text-base mt-5  mx-auto text-center md:text-left md:pl-0 md:mx-0 w-8/12 ${darkData ? "text-white":"text-secondary"}`}>
                     Website where you can get famous citation APIs collected by different RestApis and create your own citations by setting by your personal preferences.
                     </p>
